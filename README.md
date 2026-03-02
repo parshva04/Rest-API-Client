@@ -62,7 +62,7 @@ java -cp .;json-20210307.jar RestApiClient
 ```
 
 **Execution Output**  
-![image](https://github.com/user-attachments/assets/f1cec26d-2626-46cd-a87e-1658199a4976)
+<img width="327" height="31" alt="Image" src="https://github.com/user-attachments/assets/af6b2b23-386d-4128-b27b-de9a4a51e049" />
 
 ---
 
